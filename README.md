@@ -4,3 +4,6 @@
 
 • Provided researchers a better understanding of their multimodal data during data exploration, model results evaluation,
 and comparison.
+
+DEMO Video Link:
+https://youtu.be/pU_QrNb60ak
